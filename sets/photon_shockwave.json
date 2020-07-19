@@ -818,6 +818,201 @@
       "count": {
         "Common": 1
       }
-    }
+    },
+    {
+      "card_name": "Photon Sabre Tiger",
+      "set_number": "PHSW-EN081",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+     {
+      "card_name": "Evolsaur Pelta",
+      "set_number": "PHSW-EN082",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+      },
+     {
+      "card_name": "Wind-Up Rabbit",
+      "set_number": "PHSW-EN083",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "D-Boys",
+      "set_number": "PHSW-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Latinum, Exarch of Dark World",
+      "set_number": "PHSW-EN085",
+       "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+       {
+      "card_name": "Evolzar Dolkka",
+      "set_number": "PHSW-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+        {
+      "card_name": "Wind-Up Zenmaines",
+      "set_number": "PHSW-EN087",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Xyz Territory",
+      "set_number": "PHSW-EN088",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Smog",
+      "set_number": "PHSW-EN089",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+     {
+      "card_name": "Sergeant Electro",
+      "set_number": "PHSW-EN090",
+       "rarities": [
+        "Ultimate Rare",
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+     {
+      "card_name": "Vylon Ohm",
+      "set_number": "PHSW-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+     {
+      "card_name": "Laval Dual Slasher",
+      "set_number": "PHSW-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+     {
+      "card_name": "Gem-Turtle",
+      "set_number": "PHSW-EN093",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Laval Lancelord",
+      "set_number": "PHSW-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Gishki Beast",
+      "set_number": "PHSW-EN095",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+     {
+      "card_name": "Gem-Knight Emerald",
+      "set_number": "PHSW-EN096",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+       {
+      "card_name": "Junk Defender",
+      "set_number": "PHSW-EN097",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+       {
+      "card_name": "Metaion, the Timelord",
+      "set_number": "PHSW-EN098",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+         {
+      "card_name": "Infernity Knight",
+      "set_number": "PHSW-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
   ]
 }
