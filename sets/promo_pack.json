@@ -706,6 +706,26 @@
      "count": {
        "Secret Rare": 1
       }
+    },
+    {
+      "card_name": "Number 19: Freezadon",
+      "set_number": "TYBW-EN068",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 22: Zombiestein",
+      "set_number": "TYBW-EN069",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
     }
   ]
 }
