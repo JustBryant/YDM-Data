@@ -11,10 +11,10 @@
       "card_name": "Number 39: Utopia",
       "set_number": "BLHR-EN000",
       "rarities": [
-        "Prismatic Secret Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Prismatic Secret Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -941,10 +941,10 @@
       "card_name": "Ten Thousand Dragon",
       "set_number": "BLAR-EN10K",
       "rarities": [
-        "Prismatic Secret Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Prismatic Secret Rare": 1
+        "Secret Rare": 1
       }
     }
   ]
