@@ -726,6 +726,46 @@
      "count": {
        "Secret Rare": 1
       }
+    },
+    {
+      "card_name": "Hundred Dragon",
+      "set_number": "TYBW-EN070",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Time Wizard of Tomorrow",
+      "set_number": "TYBW-EN071",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Cyber Slash Harpie Lady",
+      "set_number": "TYBW-EN072",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Jinzo - Layered",
+      "set_number": "TYBW-EN073",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
     }
   ]
 }
