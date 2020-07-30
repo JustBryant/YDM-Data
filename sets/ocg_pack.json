@@ -48,16 +48,6 @@
       }
     },
     {
-      "card_name": "Dazzling Lunar Dragon Selegrea",
-      "set_number": "OCGP-EN005",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
       "card_name": "D/D/D Eulogy King Vice Requiem",
       "set_number": "OCGP-EN006",
       "rarities": [
@@ -136,17 +126,7 @@
       "count": {
         "Secret Rare": 1
       }
-    },
-    {
-      "card_name": "Number F0: Utopic Future - Future Slash",
-      "set_number": "OCGP-EN017",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
+    }
     {
       "card_name": "Odd-Eyes Rebellion Dragon - Overlord",
       "set_number": "OCGP-EN018",
@@ -158,48 +138,8 @@
       }
     },
     {
-      "card_name": "Odd-Eyes Revolution Dragon",
-      "set_number": "OCGP-EN019",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
       "card_name": "Odd-Eyes Wing Dragon",
       "set_number": "OCGP-EN020",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Performapal Odd-Eyes Metal Claw",
-      "set_number": "OCGP-EN021",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Raidraptor - Arsenal Falcon",
-      "set_number": "OCGP-EN022",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Raidraptor - Revolution Falcon - Airraid",
-      "set_number": "OCGP-EN023",
       "rarities": [
         "Secret Rare"
       ],
@@ -298,48 +238,8 @@
       }
     },
     {
-      "card_name": "Code Generator",
-      "set_number": "OCGP-EN033",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
       "card_name": "Cyberspace Princess Niangniang",
       "set_number": "OCGP-EN034",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "D/D Ark",
-      "set_number": "OCGP-EN035",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "D/D Dog",
-      "set_number": "OCGP-EN036",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "D/D Evil",
-      "set_number": "OCGP-EN037",
       "rarities": [
         "Secret Rare"
       ],
@@ -408,16 +308,6 @@
       }
     },
     {
-      "card_name": "Performapal Card Gardna",
-      "set_number": "OCGP-EN044",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
       "card_name": "Performapal Miss Director",
       "set_number": "OCGP-EN045",
       "rarities": [
@@ -458,36 +348,6 @@
       }
     },
     {
-      "card_name": "Speedroid Block-n-Roll",
-      "set_number": "OCGP-EN049",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Speedroid Carturbo",
-      "set_number": "OCGP-EN050",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Ten Thousand Dragon",
-      "set_number": "OCGP-EN051",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
       "card_name": "Tindangle Jhrelth",
       "set_number": "OCGP-EN052",
       "rarities": [
@@ -508,158 +368,8 @@
       }
     },
     {
-      "card_name": "Valkyrie Sigrun",
-      "set_number": "OCGP-EN054",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
       "card_name": "V-LAN Hydra",
       "set_number": "OCGP-EN055",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Wynn the Wind Medium",
-      "set_number": "OCGP-EN056",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Fluffal Dolphin",
-      "set_number": "OCGP-EN057",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Edge Imp Scythe",
-      "set_number": "OCGP-EN058",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Frightfur Whale",
-      "set_number": "OCGP-EN059",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Frightfur Repair",
-      "set_number": "OCGP-EN060",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Frightfur Vendor",
-      "set_number": "OCGP-EN061",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Dryer Drake",
-      "set_number": "OCGP-EN062",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Electrilyrical World",
-      "set_number": "OCGP-EN063",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Kappa Scale",
-      "set_number": "OCGP-EN064",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Laundry Dragon",
-      "set_number": "OCGP-EN065",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Reuse",
-      "set_number": "OCGP-EN066",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Socketroll",
-      "set_number": "OCGP-EN067",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Test",
-      "set_number": "OCGP-EN068",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Vacculephant",
-      "set_number": "OCGP-EN069",
       "rarities": [
         "Secret Rare"
       ],
@@ -920,16 +630,6 @@
     {
       "card_name": "Performapal Kuribohble",
       "set_number": "OCGP-EN095",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
-      "card_name": "Appliancer Copybokkle",
-      "set_number": "OCGP-EN096",
       "rarities": [
         "Secret Rare"
       ],
