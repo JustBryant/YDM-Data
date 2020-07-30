@@ -1,0 +1,24 @@
+{
+  "name": "Koa'ki Meiru Supplier",
+  "number": "80839052",
+  "is_illegal": false,
+  "text": "If a face-up Rock monster(s) you control is sent to the GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Iron Core of Koa'ki Meiru\", or 1 card that specifically lists \"Iron Core of Koa'ki Meiru\" in its text, from your Deck to your hand, except \"Koa'ki Meiru Supplier\". You can only use each effect of \"Koa'ki Meiru Supplier\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "1400",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

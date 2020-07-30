@@ -1,0 +1,25 @@
+{
+  "name": "Mathmech Diameter",
+  "number": "17946349",
+  "is_illegal": false,
+  "text": "When this card is Normal Summoned: You can target 1 Level 4 Cyberse monster in your GY; Special Summon it, but it cannot activate its effects. A \"Mathmech\" Synchro or Xyz Monster that was Summoned using this card on the field as material gains this effect. You can only use each of the preceding effects of \"Mathmech Diamete\" once per turn.\n● Once during the turn this card was Special Summoned, when your opponent activates a card or effect (Quick Effect): You can negate that effect.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1000",
+  "defense": "1500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect",
+    "Tuner"
+  ],
+  "stars": "4"
+}

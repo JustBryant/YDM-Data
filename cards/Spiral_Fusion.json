@@ -1,0 +1,11 @@
+{
+  "name": "Spiral Fusion",
+  "number": "38590361",
+  "is_illegal": false,
+  "text": "Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, and if it is \"Gaia the Dragon Champion\", it gains 2600 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Normal"
+}

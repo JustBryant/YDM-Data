@@ -1,0 +1,24 @@
+{
+  "name": "Dogmatika Nexus",
+  "number": "22073844",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. You can target 4 Fusion, Synchro, Xyz, and/or Link Monsters in the GYs; Special Summon this card from your hand, and if you do, banish those targets. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy as many opponent's Attack Position monsters as possible, then inflict 800 damage to your opponent for each Fusion, Synchro, Xyz, or Link Monster destroyed.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "3200",
+  "defense": "3200",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "11"
+}

@@ -1,0 +1,11 @@
+{
+"name": "Redeemable Jar",
+"number": "84404797",
+"is_illegal": false,
+"text": "You can banish 1 Trap from your GY; add from your GY to your hand, 1 Trap with a different original name from that banished card. You can only use this effect of \"Redeemable Jar\" once per turn.",
+"type": "Trap",
+"is_monster": false,
+"is_spell": false,
+"is_trap": true,
+"property": "Continuous"
+}

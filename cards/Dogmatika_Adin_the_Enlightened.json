@@ -1,0 +1,24 @@
+{
+  "name": "Dogmatika Adin, the Enlightened",
+  "number": "33296432",
+  "is_illegal": false,
+  "text": "Cannot be destroyed by battle with a monster that was Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Adin, the Enlightened\" once per turn.\n● If a monster that was Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand.\n● If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Dogmatika\" monster from your Deck, except \"Dogmatika Adin, the Enlightened\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "1000",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

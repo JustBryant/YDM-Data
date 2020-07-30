@@ -1,0 +1,24 @@
+{
+  "name": "Infernoble Knight Astolfo",
+  "number": "95953557",
+  "is_illegal": false,
+  "text": "You can banish 1 FIRE Warrior monster from your hand or GY; Special Summon this card from your hand, then you can make this card's Level become the banished monster's Level. You can banish this card from your GY; during your 2nd Standby Phase after activating this effect, Special Summon this banished card, then you can Special Summon 1 of your FIRE Warrior monsters that is banished or in your GY. You can only use each effect of \"Infernoble Knight Astolfo\" once per Duel.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Warrior",
+  "attack": "500",
+  "defense": "200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

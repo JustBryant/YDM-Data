@@ -1,0 +1,11 @@
+{
+  "name": "Ice Dragon's Prison",
+  "number": "20899496",
+  "is_illegal": false,
+  "text": "Target 1 monster in your opponent's GY; Special Summon it to your field, but its effects are negated, then, you can banish 1 monster from both players' fields that have the same Type as each other. You can only activate 1 \"Ice Dragon's Prison\" per turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

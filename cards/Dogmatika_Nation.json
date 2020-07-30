@@ -1,0 +1,11 @@
+{
+  "name": "Dogmatika Nation",
+  "number": "65589010",
+  "is_illegal": false,
+  "text": "Neither player can target \"Dogmatika\" monsters you control with the effects of monsters that were Special Summoned from the Extra Deck. You can only use the following effects of \"Dogmatika Nation\" once per turn.\n● After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: You can destroy that opponent's monster.\n● If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can make each player send 1 monster from their Extra Deck to the GY.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dogmatika Punishment",
+  "number": "82956214",
+  "is_illegal": false,
+  "text": "Target 1 face-up monster your opponent controls; send 1 monster from your Extra Deck to the GY with an equal or higher ATK, and if you do, destroy the targeted monster. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Dogmatika Punishment\" per turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

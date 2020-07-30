@@ -1,0 +1,24 @@
+{
+  "name": "Dogmatika Fleurdelis, the Knighted",
+  "number": "69680031",
+  "is_illegal": false,
+  "text": "During the Main Phase, if a monster that was Special Summoned from the Extra Deck is on the field (Quick Effect): You can Special Summon this card from your hand, then, if you control another \"Dogmatika\" monster, you can negate the effects of 1 face-up monster on the field until the end of this turn. When your \"Dogmatika\" monster declares an attack: You can make all \"Dogmatika\" monsters you control gain 500 ATK. You can only use each effect of \"Dogmatika Fleurdelis, the Knighted\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Spellcaster",
+  "attack": "2500",
+  "defense": "2500",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

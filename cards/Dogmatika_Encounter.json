@@ -1,0 +1,11 @@
+{
+  "name": "Dogmatika Encounter",
+  "number": "29354228",
+  "is_illegal": false,
+  "text": "Activate 1 of these effects;\n● Special Summon 1 \"Dogmatika\" monster or 1 \"Fallen of Albaz\" from your hand.\n● Take 1 \"Dogmatika\" monster or 1 \"Fallen of Albaz\" from your GY, and either add it to your hand or Special Summon it.\nYou can only activate 1 \"Dogmatika Encounter\" per turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

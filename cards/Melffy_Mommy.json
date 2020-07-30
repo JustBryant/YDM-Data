@@ -1,0 +1,24 @@
+{
+  "name": "Melffy Mommy",
+  "number": "76833149",
+  "is_illegal": false,
+  "text": "2+ Level 2 Beast monsters\nOnce per turn (Quick Effect): You can attach 1 Beast monster from your hand or field to this card as material. This card gains these effects based on the number of materials attached to it.\n● 3+: Cannot be destroyed by battle.\n● 4+: You take no battle damage from battles involving this card.\n● 5+: When an attack is declared involving this card and another Attack Position monster: You can inflict damage to your opponent equal to that Attack Position monster's ATK",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1000",
+  "defense": "1000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ"
+  ],
+  "stars": "2"
+}

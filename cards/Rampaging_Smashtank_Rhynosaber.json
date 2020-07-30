@@ -1,0 +1,24 @@
+{
+  "name": "Rampaging Smashtank Rhynosaber",
+  "number": "82197831",
+  "is_illegal": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards; this card gains 700 ATK for each card discarded. At the end of the Battle Phase, if this card battled: You can send this card to the GY; Special Summon monsters from your GY whose total Levels equal 7, except \"Rampaging Smashtank Rhynosaber\", but their effects are negated. You can only use each effect of \"Rampaging Smashtank Rhynosaber\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "2400",
+  "defense": "2100",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro"
+  ],
+  "stars": "7"
+}
