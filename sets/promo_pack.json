@@ -766,6 +766,66 @@
      "count": {
        "Secret Rare": 1
       }
+    },
+    {
+      "card_name": "Number 30: Acid Golem of Destruction",
+      "set_number": "TYBW-EN074",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 40: Gimmick Puppet of Strings",
+      "set_number": "TYBW-EN075",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 56: Gold Rat",
+      "set_number": "TYBW-EN076",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 72: Shogi Rook",
+      "set_number": "TYBW-EN077",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 88: Gimmick Puppet of Leo",
+      "set_number": "TYBW-EN078",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 89: Diablosis the Mind Hacker",
+      "set_number": "TYBW-EN079",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
     }
   ]
 }
