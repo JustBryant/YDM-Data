@@ -377,3 +377,645 @@
         "Common": 1
       }
     },
+    {
+      "card_name": "Gaia the Magical Knight of Dragons",
+      "set_number": "ROTD-EN037",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Titaniklad the Ash Dragon",
+      "set_number": "ROTD-EN038",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Frightfur Cruel Whale",
+      "set_number": "ROTD-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The First Darklord",
+      "set_number": "ROTD-EN040",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Infernoble Knight Captain Roland",
+      "set_number": "ROTD-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Infernoble Knight Emperor Charles",
+      "set_number": "ROTD-EN042",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Chaos Ruler, the Chaotic Magical Dragon",
+      "set_number": "ROTD-EN043",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Melffy of the Forest",
+      "set_number": "ROTD-EN044",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Melffy Mommy",
+      "set_number": "ROTD-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Rikka Queen Strenna",
+      "set_number": "ROTD-EN046",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Drill Driver Vespenato",
+      "set_number": "ROTD-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ancient Warriors Oath - Double Dragon Lords",
+      "set_number": "ROTD-EN048",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Galloping Gaia",
+      "set_number": "ROTD-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spiral Fusion",
+      "set_number": "ROTD-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dogmatika Nation",
+      "set_number": "ROTD-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nadir Servant",
+      "set_number": "ROTD-EN052",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "\"Infernoble Arms - Durendal\"",
+      "set_number": "ROTD-EN053",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "\"Infernoble Arms - Hauteclere\"",
+      "set_number": "ROTD-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "\"Infernoble Arms -Joyeuse",
+      "set_number": "ROTD-EN055",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Melffy Tag",
+      "set_number": "ROTD-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Melffy Hide-and-Seek",
+      "set_number": "ROTD-EN057",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Frightfur Repair",
+      "set_number": "ROTD-EN058",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Magellanica, the Deep Sea City",
+      "set_number": "ROTD-EN059",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ancient Warriors Saga - East-by-South Winds",
+      "set_number": "ROTD-EN060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Adamancipator Friends",
+      "set_number": "ROTD-EN061",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Triple Tactics Talent",
+      "set_number": "ROTD-EN062",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Blizzard",
+      "set_number": "ROTD-EN063",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Fury of Kairyu-Shin",
+      "set_number": "ROTD-EN064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forbidden Droplet",
+      "set_number": "ROTD-EN065",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Heavenly Dragon Circle",
+      "set_number": "ROTD-EN066",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Diced Dice",
+      "set_number": "ROTD-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spiral Discharge",
+      "set_number": "ROTD-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spiral Reborn",
+      "set_number": "ROTD-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dogmatika Punishment",
+      "set_number": "ROTD-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dogmatika Encounter",
+      "set_number": "ROTD-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Horn of Olifant",
+      "set_number": "ROTD-EN072",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Melffy Playhouse",
+      "set_number": "ROTD-EN073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Frightfur Jar",
+      "set_number": "ROTD-EN074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Darklord Uprising",
+      "set_number": "ROTD-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Shaddoll Schism",
+      "set_number": "ROTD-EN076",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragonmaid Tidying",
+      "set_number": "ROTD-EN077",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Redeemable Jar",
+      "set_number": "ROTD-EN078",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ice Dragon's Prison",
+      "set_number": "ROTD-EN079",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Junk Sleep",
+      "set_number": "ROTD-EN080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Abyss Actor - Twinkle Little Star",
+      "set_number": "ROTD-EN081",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Performapal Card Gardna",
+      "set_number": "ROTD-EN082",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Odd-Eyes Revolution Dragon",
+      "set_number": "ROTD-EN083",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D Ark",
+      "set_number": "ROTD-EN084",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "D/D Evil",
+      "set_number": "ROTD-EN085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Wynn the Wind Channeler",
+      "set_number": "ROTD-EN086",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Seleglare the Luminous Lunar Dragon",
+      "set_number": "ROTD-EN087",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Ret-time Reviver Emit-ter",
+      "set_number": "ROTD-EN088",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Speedroid Block-n-Roll,
+      "set_number": "ROTD-EN089",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Speedroid CarTurbo",
+      "set_number": "ROTD-EN090",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "D/D Dog",
+      "set_number": "ROTD-EN091",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Performapal Odd-Eyes Metal Claw",
+      "set_number": "ROTD-EN092",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Rampaging Smashtank Rhynosaber",
+      "set_number": "ROTD-EN093",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Arsenal Falcon",
+      "set_number": "ROTD-EN094",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Raidraptor - Revolution Falcon - Air Raid",
+      "set_number": "ROTD-EN095",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Linkerbell",
+      "set_number": "ROTD-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Superheavy Samurai Scarecrow",
+      "set_number": "ROTD-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Yaminabe Party",
+      "set_number": "ROTD-EN098",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Revenge Rally",
+      "set_number": "ROTD-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "D.D. Crow",
+      "set_number": "ROTD-EN100",
+      "rarities": [
+        "Ghost Rare"
+      ],
+      "count": {
+        "Ghost Rare": 1
+      }
+    }
+  ]
+}
