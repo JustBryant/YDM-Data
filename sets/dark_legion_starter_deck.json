@@ -5,7 +5,7 @@
   "distribution": "",
   "prefix": "YS15",
   "sub_sets": [],
-  "load": false,
+  "load": true,
   "cards": [
     {
       "card_name": "D/D/D Dragon King Pendragon",
@@ -44,7 +44,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -64,7 +64,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -74,7 +74,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -84,7 +84,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -94,7 +94,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -114,7 +114,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -124,7 +124,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -184,7 +184,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -194,7 +194,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -254,7 +254,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -264,7 +264,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
@@ -284,7 +284,7 @@
         "Common"
       ],
       "count": {
-        "Common": 1
+        "Common": 2
       }
     },
     {
