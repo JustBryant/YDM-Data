@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Archfiend Empress",
+      "set_number": "STBL-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Swift Scarecrow",
       "set_number": "STBL-EN001",
       "rarities": [
