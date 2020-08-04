@@ -833,12 +833,12 @@
       "card_name": "Koa'ki Meiru Maximus",
       "set_number": "SOVR-EN081",
       "rarities": [
-        "Ultra Rare",
-        "Ultimate Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Ultra Rare": 1,
-        "Ultimate Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -865,12 +865,12 @@
       "card_name": "Yellow Baboon, Archer of the Forest",
       "set_number": "SOVR-EN084",
       "rarities": [
-        "Ultra Rare",
         "Ultimate Rare",
+        "Ultra Rare",
       ],
       "count": {
-        "Ultra Rare": 1,
-        "Ultimate Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
