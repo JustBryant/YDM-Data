@@ -2,7 +2,7 @@
   "name": "Mekk-Knight Indigo Eclipse",
   "number": "92204263",
   "is_illegal": false,
-  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Cobalt Depths\" once per turn this way. Once per turn (Quick Effect): You can target 1 \"Jack Knight\" monster you control; move that monster you control to another of your Main Monster Zones.",
+  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Indigo Eclipse\" once per turn this way. Once per turn (Quick Effect): You can target 1 \"Mekk-Knight\" monster you control; move that target to another of your Main Monster Zones.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
