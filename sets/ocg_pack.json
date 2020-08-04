@@ -8,16 +8,6 @@
   "load": true,
   "cards": [
     {
-      "card_name": "Abyss Actor - Twinkle Littlestar",
-      "set_number": "OCGP-EN001",
-      "rarities": [
-        "Secret Rare"
-      ],
-      "count": {
-        "Secret Rare": 1
-      }
-    },
-    {
       "card_name": "Borrelend Dragon",
       "set_number": "OCGP-EN002",
       "rarities": [
