@@ -8,6 +8,16 @@
   "load": true,
   "cards": [
     {
+      "card_name": "Koa'ki Meiru Beetle",
+      "set_number": "SOVR-EN000",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
       "card_name": "Majestic Dragon",
       "set_number": "SOVR-EN001",
       "rarities": [
@@ -593,10 +603,10 @@
       "card_name": "Moray of Greed",
       "set_number": "SOVR-EN058",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
       }
     },
     {
@@ -633,10 +643,10 @@
       "card_name": "Faustian Bargain",
       "set_number": "SOVR-EN062",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
       }
     },
     {
@@ -793,10 +803,10 @@
       "card_name": "Stygian Dirge",
       "set_number": "SOVR-EN078",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
       }
     },
     {
@@ -813,10 +823,204 @@
       "card_name": "Appointer of the Red Lotus",
       "set_number": "SOVR-EN080",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Maximus",
+      "set_number": "SOVR-EN081",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Shire, Lightsworn Spirit",
+      "set_number": "SOVR-EN082",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Rinyan, Lightsworn Rogue",
+      "set_number": "SOVR-EN083",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Yellow Baboon, Archer of the Forest",
+      "set_number": "SOVR-EN084",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare",
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Gemini Scorpion",
+      "set_number": "SOVR-EN085",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Metabo-Shark",
+      "set_number": "SOVR-EN086",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Earthbound Revival",
+      "set_number": "SOVR-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Reptillianne Poison",
+      "set_number": "SOVR-EN088",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Gateway of the Six",
+      "set_number": "SOVR-EN089",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Rabbit",
+      "set_number": "SOVR-EN090",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Shine Palace",
+      "set_number": "SOVR-EN091",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Simorgh",
+      "set_number": "SOVR-EN092",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Victoria",
+      "set_number": "SOVR-EN093",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Ice Queen",
+      "set_number": "SOVR-EN094",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Shutendoji",
+      "set_number": "SOVR-EN095",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Archlord Kristya",
+      "set_number": "SOVR-EN096",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Guardian Eatos",
+      "set_number": "SOVR-EN097",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Clear Vice Dragon",
+      "set_number": "SOVR-EN098",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Clear World",
+      "set_number": "SOVR-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]
