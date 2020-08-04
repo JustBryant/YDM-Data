@@ -2,7 +2,7 @@
   "name": "Mekk-Knight Orange Sunset",
   "number": "93020401",
   "is_illegal": false,
-  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Amber Shade\" once per turn this way. If an opponent's card in this card's column is destroyed by battle or leaves the field: You can Special Summon 1 \"Jack Knight\" monster from your hand.",
+  "text": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Orange Sunset\" once per turn this way. If an opponent's card in this card's column is destroyed by battle, or leaves the field: You can Special Summon 1 \"Mekk-Knight\" monster from your hand.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
