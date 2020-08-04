@@ -351,10 +351,10 @@
       "card_name": "Wightmare",
       "set_number": "STBL-EN035",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
       }
     },
     {
@@ -633,10 +633,10 @@
       "card_name": "White Elephant's Gift",
       "set_number": "STBL-EN062",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
       }
     },
     {
@@ -773,10 +773,10 @@
       "card_name": "Vanity's Emptiness",
       "set_number": "STBL-EN076",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
       }
     },
     {
@@ -813,10 +813,202 @@
       "card_name": "Darkfall",
       "set_number": "STBL-EN080",
       "rarities": [
-        "Normal Rare"
+        "Common"
       ],
       "count": {
-        "Normal Rare": 1
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Skull Meister",
+      "set_number": "STBL-EN081",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Droll & Lock Bird",
+      "set_number": "STBL-EN082",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Spellstone Sorcerer Karood",
+      "set_number": "STBL-EN083",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Scrap Mind Reader",
+      "set_number": "STBL-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Gravekeeper's Recruiter",
+      "set_number": "STBL-EN085",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Psi-Blocker",
+      "set_number": "STBL-EN086",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Wall",
+      "set_number": "STBL-EN087",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Barrel mdl 96 \"Shinkuro\"",
+      "set_number": "STBL-EN088",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mischief of the Yokai",
+      "set_number": "STBL-EN089",
+      "rarities": [
+        "Ultra Rare",
+        "Ultimate Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1,
+        "Ultimate Rare": 1
+      }
+    },
+    {
+      "card_name": "Karakuri Spider",
+      "set_number": "STBL-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Royal Knight of the Ice Barrier",
+      "set_number": "STBL-EN091",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Ally Salvo",
+      "set_number": "STBL-EN092",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Ally of Justice Thousand Arms",
+      "set_number": "STBL-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ally of Justice Unknown Crusher",
+      "set_number": "STBL-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Duradark",
+      "set_number": "STBL-EN095",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "The Fabled Rubyruda",
+      "set_number": "STBL-EN096",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Knight - Vajrayana",
+      "set_number": "STBL-EN097",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragunity Knight - Gae Dearg",
+      "set_number": "STBL-EN098",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Genex Ally Axel",
+      "set_number": "STBL-EN099",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]
