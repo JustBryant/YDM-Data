@@ -2,7 +2,7 @@
   "name": "Alien Facilitator",
   "number": "21000025",
   "is_illegal": false,
-  "text": "Once per turn, you can remove 1 \"A-Counter\" from the field; Special Summon 1 \"Alien\" monster from your Deck.",
+  "text": "Once per turn, you can remove 1 \"A-Counter\" from the field; Special Summon 1 \"Alien\" monster from your Deck with a level equal to the number of A-Counters removed.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,

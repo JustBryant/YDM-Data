@@ -2,7 +2,7 @@
   "name": "Alien Planter",
   "number": "21000115",
   "is_illegal": false,
-  "text": "During the Main Phase (Quick Effect): You can Special Summon 1 \"Alien\" monster from your Deck. You can only use this effect of \"Alien Planter\" once per turn.",
+  "text": "During the Main Phase (Quick Effect): You can Special Summon 1 \"Alien\" monster from your Deck with a level lower than the total number of A-Counters on the field. You can only use this effect of \"Alien Planter\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
