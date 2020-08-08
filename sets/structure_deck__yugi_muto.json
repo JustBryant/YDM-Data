@@ -101,10 +101,10 @@
       "card_name": "Dark Magician",
       "set_number": "SDMY-EN010",
       "rarities": [
-        "Normal Parallel Rare"
+        "Common"
       ],
       "count": {
-        "Normal Parallel Rare": 1
+        "Common": 1
       }
     },
     {
@@ -128,7 +128,7 @@
       }
     },
     {
-      "card_name": "Gaia The Fierce Knight",
+      "card_name": "Jack's Knight",
       "set_number": "SDMY-EN013",
       "rarities": [
         "Common"
@@ -138,7 +138,7 @@
       }
     },
     {
-      "card_name": "Curse of Dragon",
+      "card_name": "Queen's Knight",
       "set_number": "SDMY-EN014",
       "rarities": [
         "Common"
@@ -148,7 +148,7 @@
       }
     },
     {
-      "card_name": "Jack's Knight",
+      "card_name": "King's Knight",
       "set_number": "SDMY-EN015",
       "rarities": [
         "Common"
@@ -158,7 +158,7 @@
       }
     },
     {
-      "card_name": "Queen's Knight",
+      "card_name": "Berfomet",
       "set_number": "SDMY-EN016",
       "rarities": [
         "Common"
@@ -168,7 +168,7 @@
       }
     },
     {
-      "card_name": "King's Knight",
+      "card_name": "Gazelle the King of Mythical Beasts",
       "set_number": "SDMY-EN017",
       "rarities": [
         "Common"
@@ -178,7 +178,7 @@
       }
     },
     {
-      "card_name": "Berfomet",
+      "card_name": "Obnoxious Celtic Guard",
       "set_number": "SDMY-EN018",
       "rarities": [
         "Common"
@@ -188,7 +188,7 @@
       }
     },
     {
-      "card_name": "Gazelle the King of Mythical Beasts",
+      "card_name": "Giant Soldier of Stone",
       "set_number": "SDMY-EN019",
       "rarities": [
         "Common"
@@ -198,7 +198,7 @@
       }
     },
     {
-      "card_name": "Obnoxious Celtic Guard",
+      "card_name": "Kuriboh",
       "set_number": "SDMY-EN020",
       "rarities": [
         "Common"
@@ -208,27 +208,27 @@
       }
     },
     {
-      "card_name": "Magnetic Field",
+      "card_name": "Skilled Dark Magician",
       "set_number": "SDMY-EN021",
       "rarities": [
-        "Normal Parallel Rare"
+        "Common"
       ],
       "count": {
-        "Normal Parallel Rare": 1
+        "Common": 1
       }
     },
     {
-      "card_name": "Dark Magic Inheritance",
+      "card_name": "Skilled White Magician",
       "set_number": "SDMY-EN022",
       "rarities": [
-        "Normal Parallel Rare"
+        "Common"
       ],
       "count": {
-        "Normal Parallel Rare": 1
+        "Common": 1
       }
     },
     {
-      "card_name": "Dark Magic Attack",
+      "card_name": "Twin-Headed Behemoth",
       "set_number": "SDMY-EN023",
       "rarities": [
         "Common"
@@ -238,7 +238,7 @@
       }
     },
     {
-      "card_name": "Dark Magic Curtain",
+      "card_name": "Magnetic Field",
       "set_number": "SDMY-EN024",
       "rarities": [
         "Common"
@@ -248,7 +248,7 @@
       }
     },
     {
-      "card_name": "Mystic Box",
+      "card_name": "Dark Magic Inheritance",
       "set_number": "SDMY-EN025",
       "rarities": [
         "Common"
@@ -258,7 +258,7 @@
       }
     },
     {
-      "card_name": "Monster Reborn",
+      "card_name": "Dark Magic Attack",
       "set_number": "SDMY-EN026",
       "rarities": [
         "Common"
@@ -268,7 +268,7 @@
       }
     },
     {
-      "card_name": "Swords of Revealing Light",
+      "card_name": "Dark Magic Curtain",
       "set_number": "SDMY-EN027",
       "rarities": [
         "Common"
@@ -278,7 +278,7 @@
       }
     },
     {
-      "card_name": "Card Destruction",
+      "card_name": "Mystic Box",
       "set_number": "SDMY-EN028",
       "rarities": [
         "Common"
@@ -288,7 +288,7 @@
       }
     },
     {
-      "card_name": "Card of Sanctity",
+      "card_name": "Swords of Revealing Light",
       "set_number": "SDMY-EN029",
       "rarities": [
         "Common"
@@ -328,17 +328,17 @@
       }
     },
     {
-      "card_name": "Magnet Conversion",
+      "card_name": "Swords of Concealing Light",
       "set_number": "SDMY-EN033",
       "rarities": [
-        "Normal Parallel Rare"
+        "Common"
       ],
       "count": {
-        "Normal Parallel Rare": 1
+        "Common": 1
       }
     },
     {
-      "card_name": "Magician's Circle",
+      "card_name": "Attack the Moon!",
       "set_number": "SDMY-EN034",
       "rarities": [
         "Common"
@@ -348,7 +348,7 @@
       }
     },
     {
-      "card_name": "Mirror Force",
+      "card_name": "Magnet Conversion",
       "set_number": "SDMY-EN035",
       "rarities": [
         "Common"
@@ -358,7 +358,7 @@
       }
     },
     {
-      "card_name": "Magic Cylinder",
+      "card_name": "Magician's Circle",
       "set_number": "SDMY-EN036",
       "rarities": [
         "Common"
@@ -368,7 +368,7 @@
       }
     },
     {
-      "card_name": "Magical Hats",
+      "card_name": "Mirror Force",
       "set_number": "SDMY-EN037",
       "rarities": [
         "Common"
@@ -378,7 +378,7 @@
       }
     },
     {
-      "card_name": "Lightforce Sword",
+      "card_name": "Magic Cylinder",
       "set_number": "SDMY-EN038",
       "rarities": [
         "Common"
@@ -388,7 +388,7 @@
       }
     },
     {
-      "card_name": "Chain Destruction",
+      "card_name": "Soul Rope",
       "set_number": "SDMY-EN039",
       "rarities": [
         "Common"
@@ -398,7 +398,7 @@
       }
     },
     {
-      "card_name": "Soul Rope",
+      "card_name": "Rock Bombardment",
       "set_number": "SDMY-EN040",
       "rarities": [
         "Common"
@@ -421,10 +421,10 @@
       "card_name": "Arcana Knight Joker",
       "set_number": "SDMY-EN042",
       "rarities": [
-        "Normal Parallel Rare"
+        "Common"
       ],
       "count": {
-        "Normal Parallel Rare": 1
+        "Common": 1
       }
     },
     {
