@@ -10,7 +10,7 @@
   "species": "Insect",
   "attack": "1200",
   "defense": "2500",
-  "attribute": "",
+  "attribute": "WIND",
   "is_pendulum": false,
   "is_xyz": true,
   "is_synchro": false,
