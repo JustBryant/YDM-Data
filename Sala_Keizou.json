@@ -1,0 +1,27 @@
+{
+  "name": "Sala - Keizou",
+  "number": "22000040",
+  "is_illegal": false,
+  "text": "2 Level 6 or Lower Monsters\nWhen this card is Link Summoned using a \"Sala -\" Monster: You can Special Summon a \"Sala -\" Monster from your Deck to a Zone this card points to. You can discard one card and target one \"Sala -\" Monster you control with a Level or Rank; It becomes a Tuner, and if it has a rank, its rank is treated as a level until the End Phase. You can only use each effect of \"Sala - Keizou\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Reptile",
+  "attack": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "link_number": "2"
+}
