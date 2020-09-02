@@ -1,0 +1,24 @@
+{
+  "name": "Sala - Benson",
+  "number": "2200021",
+  "is_illegal": false,
+  "text": "When this card is Summoned: Pay 1000 LP or destroy this card. This card cannot be destroyed by battle or card effects, excluding its own. If this card attacks a monster, you can discard 1 card from your hand; Special Summon 1 monster from your GY whose level is lower than the monster this card attacked. If this card battles, destroy this card and the monster it battled at the end of the damage step.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "2000",
+  "defense": "2000",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}

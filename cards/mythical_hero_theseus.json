@@ -1,0 +1,28 @@
+{
+  "name": "Mythical Hero Theseus",
+  "number": "22000005",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Guiding Ariadne\" from your Deck to your hand. During the End Phase: You can shuffle 3 LIGHT monsters from your GY or face-up Extra Deck into the Deck, and if you do, set 1 Counter Trap card from your Deck to your Spell/Trap Zone. You can only use each effect of \"Mythical Hero Theseus\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fairy",
+  "attack": "2000",
+  "defense": "300",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "5",
+  "pendulum_right": "5",
+  "pendulum_text": "If all monsters you control are LIGHT monsters (min 1.): You can destroy 1 card in your Pendulum Zone, then draw 1 card. You can only use this effect of \"Mythical Hero Theseus\" once per turn.",
+  "stars": "4"
+}

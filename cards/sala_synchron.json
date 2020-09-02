@@ -1,0 +1,25 @@
+{
+  "name": "Sala - Synchron",
+  "number": "22000027",
+  "is_illegal": false,
+  "text": "If this card is sent to the GY for the Synchro Summon of a \"Sala -\" monster: You can add one \"Sala -\" card from your Deck to your hand. You can discard one \"Sala -\" card; Special Summon this card from your hand or GY, but banish it when it leaves the field. If this card is Summoned by its own effect, you can only Summon \"Sala -\" monsters for the rest of the turn. You can only use each effect of \"Sala - Synchron\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "100",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Tuner",
+    "Effect"
+  ],
+  "stars": "3"
+}

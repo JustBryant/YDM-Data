@@ -1,0 +1,26 @@
+{
+  "name": "Goose",
+  "number": "22000018",
+  "is_illegal": false,
+  "text": "1 \"Duck\" Tuner monster + 1+ \"Duck\" monster(s)
+If this card is Special Summoned, you can target 1 \"Duck\" monster in your GY; equip it to this card. If a Spell/Trap card is activated: You can send 1 card that is equipped to this card to the GY; negate the activation and if you do, destroy it. You can use this effect of \"Goose\" once per turn. Once per turn, if all monsters you control are \"Duck\" monsters: You can draw 2 cards.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "3000",
+  "defense": "2000",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": true,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Synchro",
+    "Effect"
+  ],
+  "stars": "9"
+}

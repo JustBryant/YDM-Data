@@ -1,0 +1,28 @@
+{
+  "name": "Sala - Red Scales",
+  "number": "22000026",
+  "is_illegal": false,
+  "text": "Once per turn: You can return one \"Sala -\" card from your Pendulum Zone to your hand; Place this card in the Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "0",
+  "defense": "1500",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "6",
+  "pendulum_right": "6",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Sala -\" Monsters. This effect cannot be negated. You can return one \"Sala -\" monster you control to the hand and target one monster your opponent controls; return it to the hand. You can only use this effect of \"Sala - Red Scale\" once per turn.",
+  "stars": "3"
+}

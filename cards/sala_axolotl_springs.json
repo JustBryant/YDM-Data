@@ -1,0 +1,11 @@
+{
+  "name": "Sala - Axolotl Springs",
+  "number": "22000034",
+  "is_illegal": false,
+  "text": "Pay 1000 LP; Your opponent randomly chooses 1 card from your hand to discard, then you can banish 1 monster who's effect has been activated this turn.",
+  "type": "Trap",
+  "is_monster": false,
+  "is_spell": false,
+  "is_trap": true,
+  "property": "Normal"
+}

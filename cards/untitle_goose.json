@@ -1,0 +1,11 @@
+{
+  "name": "Untitle Goose",
+  "number": "22000012",
+  "is_illegal": false,
+  "text": "If you control a face-up \"Goose\": You can equip a \"Bell\" from your Deck or GY to it. If this card is in the GY while \"Goose\" is on the field: You can shuffle this card into the Deck and if you do, add 1 \"Bell\" from your GY to your hand.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Normal"
+}

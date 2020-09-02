@@ -1,0 +1,28 @@
+{
+  "name": "Sala - Black Scales",
+  "number": "22000022",
+  "is_illegal": false,
+  "text": "If this card is Special Summoned: Destroy this monster and 1 monster your opponent controls (if they control one)",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1800",
+  "defense": "300",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "8",
+  "pendulum_right": "8",
+  "pendulum_text": "If \"Sala - White Scales\" is in the other Pendulum Zone, all Pendulum Summoned monsters gain 100 ATK for each monster you control. You cannot Pendulum Summon monsters in your Extra Monster Zone (this effect cannot be negated).",
+  "stars": "3"
+}

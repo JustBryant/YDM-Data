@@ -1,0 +1,24 @@
+{
+  "name": "Schrodinger’s Duck",
+  "number": "22000009",
+  "is_illegal": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by sending a \"Duck\" monster from your hand or field to the GY. If this card is Special Summoned: You can flip a coin and call it. If you call it right, Special Summon a \"Duck\" monster from your GY, but its effects are negated. If you call it wrong, send this card to the GY. If this card is sent to the GY: You can add 1 \"Duck\" card from Deck to hand. If you Special Summon this card by the effect of \"Quacktum Physic\" you can Special Summon a level 6 or lower \"Duck\" Monster from your Deck. You can only use each effect of \"Schrodinger’s Duck\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "3000",
+  "defense": "2500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "8"
+}

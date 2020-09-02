@@ -1,0 +1,29 @@
+{
+  "name": "Link Duck",
+  "number": "22000019",
+  "is_illegal": false,
+  "text": "3 \"Duck\" monsters\nOnce per turn: You can add 1 \"Duck\" card from your GY to your hand. If this card is targeted by a card effect: You can shuffle a \"Duck\" card from your GY into the Deck and negate that effect. This card cannot be destroyed by battle. Any card this card points to is treated as a  \"Duck\" card. If a \"Duck\" monster is sent from the field to the GY: You can Special Summon a \"Duck\" Normal Monster from your GY. You can only use this effect of \"Link Duck\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Winged Beast",
+  "attack": "1500",
+  "attribute": "WIND",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": true,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Link",
+    "Effect"
+  ],
+  "link_markers": [
+    "Bottom-Left",
+    "Bottom",
+    "Right"
+  ],
+  "link_number": "3"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sala - Reborn",
+  "number": "22000032",
+  "is_illegal": false,
+  "text": "Target 1 \"Sala -\" monster in your GY; Special Summon it.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Normal"
+}

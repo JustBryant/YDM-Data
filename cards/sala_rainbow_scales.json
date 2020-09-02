@@ -1,0 +1,28 @@
+{
+  "name": "Sala - Rainbow Scales",
+  "number": "22000025",
+  "is_illegal": false,
+  "text": "If this card was Pendulum Summoned: You can reveal 2 cards in your hand; Banish 1 of them and a random card from your opponent's hand, then reveal a random card from your opponent’s hand and if it is the same type of card as yours, send them both to the GY. You can only use this effect of \"Sala - Rainbow Scales\" once per turn",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1600",
+  "defense": "2600",
+  "attribute": "LIGHT",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "4",
+  "pendulum_right": "4",
+  "pendulum_text": "You can destroy this card and another card in your Pendulum Zone, Special Summon 2 \"Sala -\" Monsters from your Hand, Deck, or GY, but negate their effects. You cannot Summon monsters the turn you activate this effect except \"Sala\" monsters.",
+  "stars": "5"
+}

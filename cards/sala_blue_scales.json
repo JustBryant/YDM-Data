@@ -1,0 +1,28 @@
+{
+  "name": "Sala - Blue Scales",
+  "number": "22000023",
+  "is_illegal": false,
+  "text": "Once per turn: You can return one \"Sala -\" card from your Pendulum Zone to your hand; Place this card in the Pendulum Zone.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1500",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "1",
+  "pendulum_right": "1",
+  "pendulum_text": "You can only Pendulum Summon \"Sala -\" Monsters. This effect cannot be negated. If you Pendulum Summon a monster(s), you can draw 1 card. You can only use this effect of \"Sala - Blue Scale\" Once per turn.",
+  "stars": "3"
+}

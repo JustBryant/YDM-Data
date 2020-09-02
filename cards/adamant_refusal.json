@@ -1,0 +1,11 @@
+{
+  "name": "Adamant Refusal",
+  "number": "22000002",
+  "is_illegal": false,
+  "text": "When a card or effect is activated that negates the effect or activation of a monster you control: Pay half your LP; Negate the activation, and if you do, destroy it. You can only use 1 \"Adamant Refusal\" per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

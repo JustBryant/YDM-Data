@@ -1,0 +1,11 @@
+{
+  "name": "Dark Contract Library",
+  "number": "22000001",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can add 1 \"Dark Contract\" card from your Deck to your hand with a different name than the cards you control. You can only use this effect of \"Dark Contract Library\" once per turn. If this card would be destroyed, you can banish 1 \"Dark Contract\" card from your GY instead, except \"Dark Contract Library\". Once per turn, during your Standby Phase: Take 1000 damage for each \"Dark Contract card with a different name you control.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

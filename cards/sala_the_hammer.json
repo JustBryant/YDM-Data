@@ -1,0 +1,24 @@
+{
+  "name": "Sala - The Hammer",
+  "number": "22000028",
+  "is_illegal": false,
+  "text": "This card can only be Summoned by its own effect. If you control a \"Sala -\" monster: You can send the top 5 cards of your Deck to the GY and Special Summon this card from your hand or GY. If this card is Summoned, destroy 1 monster on the field. If this card leaves the field, destroy all monsters in the Extra Monster Zones. You can only use each effect of \"Sala - The Hammer\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1600",
+  "defense": "2600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "5"
+}

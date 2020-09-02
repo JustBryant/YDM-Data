@@ -1,0 +1,11 @@
+{
+  "name": "Pond",
+  "number": "22000014",
+  "is_illegal": false,
+  "text": "You can shuffle a \"Duck\" card from your GY into the Deck, and if you do, draw 1 card, then if it’s a \"Duck\" monster, you can Special Summon it. You can Fusion Summon a \"Duck\" monster from your Extra Deck by sending \"Duck\" monster(s) from your hand to the GY. You can only use each effect of \"Pond\" once per turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Field"
+}

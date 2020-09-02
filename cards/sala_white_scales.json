@@ -1,0 +1,28 @@
+{
+  "name": "Sala - White Scales",
+  "number": "22000030",
+  "is_illegal": false,
+  "text": "If this card is Normal Summoned: Discard 1 card; Special Summon 1 \"Sala -\" Monster from your GY.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "300",
+  "defense": "1800",
+  "attribute": "EARTH",
+  "is_pendulum": true,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Pendulum",
+    "Effect"
+  ],
+  "pendulum_left": "0",
+  "pendulum_right": "0",
+  "pendulum_text": "If \"Sala - Black Scales\" is in your other Pendulum Zone: You can destroy both this card and the other card in your Pendulum Zone, Special Summon 1 level 5 or lower \"Sala -\" Monster from your hand.",
+  "stars": "3"
+}

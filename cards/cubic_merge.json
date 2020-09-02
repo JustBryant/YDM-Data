@@ -1,0 +1,25 @@
+{
+  "name": "Cubic Merge",
+  "number": "22000000",
+  "is_illegal": false,
+  "text": "2 \"Cubic\" monsters\nThis card can also be Special Summoned (from your Extra Deck) by sending 1 \"Cubic\" monster on the field and 1 \"Cubic\" card in your hand to the GY (in which case you do not use \"Polymerization\"). You can only Special Summon \"Cubic Merge\" once per turn this way. Cannot be Special Summoned from the GY. If this card is Special Summoned: You can Special Summon up to 3 \"Vijam the Cubic Seed\" from your hand, Deck, and/or GY but they cannot be used as Link Material and they are destroyed at the end of this turn. You can only use this effect of \"Cubic Merge\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Fiend",
+  "attack": "2400",
+  "defense": "2400",
+  "attribute": "Dark",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "6"
+}

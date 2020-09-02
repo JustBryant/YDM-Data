@@ -1,0 +1,11 @@
+{
+  "name": "Quacktum Physic",
+  "number": "22000015",
+  "is_illegal": false,
+  "text": "If \"Quantum Duck\" is on the field you can activate this card, then flip a coin and if it is Heads, activate one of these effects. If it is Tails, destroy all monsters you control.\u00B7Special Summon \"Schrodinger's Duck\" from your hand, Deck, or GY ignoring summoning conditions.\u00B7You can add 1 \"Duck\" card from your Deck or GY to your hand.\u00B7\"Duck\" monsters you currently control cannot be targeted or destroyed by card effects until the end of this turn.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Quick-Play"
+}

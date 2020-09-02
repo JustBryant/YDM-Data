@@ -1,0 +1,11 @@
+{
+  "name": "Uneven Playing Field",
+  "number": "22000003",
+  "is_illegal": false,
+  "text": "Send 1 \"LV\" monster from your hand or field to the GY; Special Summon 1 \"LV\" monster from your Deck whose name is listed on that monster ignoring summoning conditions. If a \"LV\" monster you control is sent to the GY by an opponent’s card: You can banish this card from your GY, and if you do, add 1 \"LV\" card from your Deck to your hand.",
+  "type": "Spell",
+  "is_monster": false,
+  "is_spell": true,
+  "is_trap": false,
+  "property": "Normal"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sala - Tuna",
+  "number": "22000029",
+  "is_illegal": false,
+  "text": "If a monster effect is activated: Destroy 1 face-up monster you control; Negate the activation. You can only use this effect of \"Sala - Tuna\" once per turn. If this card is used for a Synchro Summon: You can add 1 \"Sala -\" Spell/Trap card from your Deck to your hand.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "1300",
+  "defense": "1600",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "3"
+}
