@@ -241,10 +241,10 @@
       "card_name": "Kaiju Calling",
       "set_number": "KP01-EN024",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -431,10 +431,10 @@
       "card_name": "Warrior Reunited!",
       "set_number": "KP01-EN043",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -601,10 +601,10 @@
       "card_name": "Chekrut Mutt",
       "set_number": "KP01-EN060",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -861,10 +861,10 @@
       "card_name": "Sala - Rainbow Scales",
       "set_number": "KP01-EN086",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -1001,10 +1001,10 @@
       "card_name": "Link Sala - Pider",
       "set_number": "KP01-EN100",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     }
   ]
