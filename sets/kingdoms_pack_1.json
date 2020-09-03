@@ -1,0 +1,1011 @@
+{
+  "name": "Kingdoms Pack 1",
+  "type": "Booster Pack",
+  "date": "2012-07-21",
+  "distribution": "booster_pack",
+  "prefix": "KP01",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Mellow \"C\"",
+      "set_number": "KP01-EN001",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Reckless Terraforming",
+      "set_number": "KP01-EN002",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Alien Solar Facility",
+      "set_number": "KP01-EN003",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Facilitator",
+      "set_number": "KP01-EN004",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Spore Explosion!",
+      "set_number": "KP01-EN005",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Alien Prometheus, the Creator",
+      "set_number": "KP01-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Alien Mothership",
+      "set_number": "KP01-EN007",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Swarm!",
+      "set_number": "KP01-EN008",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Planter",
+      "set_number": "KP01-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Alien Generations",
+      "set_number": "KP01-EN010",
+      "rarities": [
+        "Super  Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "U.A. Final Switch",
+      "set_number": "KP01-EN011",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "U.A. Tagteam",
+      "set_number": "KP01-EN012",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": U.A. Manager"",
+      "set_number": "KP01-EN013",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "U.A. Protection Agency",
+      "set_number": "KP01-EN014",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Odd-Eyes Starlight-Blast Supernova Dragon",
+      "set_number": "KP01-EN015",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Odd-Eyes Baby Dragon",
+      "set_number": "KP01-EN016",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Flower Cardian Plum Blossom",
+      "set_number": "KP01-EN017",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Graydle Metamorphosis",
+      "set_number": "KP01-EN018",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Surprise Graydle Attack",
+      "set_number": "KP01-EN019",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Graydle Dreidel Dragon",
+      "set_number": "KP01-EN020",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Graydle Mothership",
+      "set_number": "KP01-EN021",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Galaxy-Eyes Tachyon Drill Dragon",
+      "set_number": "KP01-EN022",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Across the Galaxy",
+      "set_number": "KP01-EN023",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Kaiju Calling",
+      "set_number": "KP01-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Guidance of the King of the Kaiju",
+      "set_number": "KP01-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Nigerundayo! Smokey!",
+      "set_number": "KP01-EN026",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Call of the Normals",
+      "set_number": "KP01-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Spellbook Histories",
+      "set_number": "KP01-EN028",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Finalcode Talker",
+      "set_number": "KP01-EN029",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental Splash",
+      "set_number": "KP01-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Water Dragon's Lair",
+      "set_number": "KP01-EN031",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Ultimate Bonding",
+      "set_number": "KP01-EN032",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Entertainer",
+      "set_number": "KP01-EN033",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Brando, Vampire Progenitor",
+      "set_number": "KP01-EN034",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Vampire's Sacrifice",
+      "set_number": "KP01-EN035",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Vampire Count",
+      "set_number": "KP01-EN036",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Venom Hydra",
+      "set_number": "KP01-EN037",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Venom Pit",
+      "set_number": "KP01-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Venom Viper",
+      "set_number": "KP01-EN039",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Hannah, Pride of the Lightsworn",
+      "set_number": "KP01-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Punishment for the One Percent",
+      "set_number": "KP01-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Forgotten Souls",
+      "set_number": "KP01-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Warrior Reunited!",
+      "set_number": "KP01-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Hellblaze",
+      "set_number": "KP01-EN044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Dragon",
+      "set_number": "KP01-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Volcanic Spirit",
+      "set_number": "KP01-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Predapower",
+      "set_number": "KP01-EN047",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Blue-Eyes Mecha Dragon",
+      "set_number": "KP01-EN048",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Cubic Merge",
+      "set_number": "KP01-EN049",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Contract Library",
+      "set_number": "KP01-EN050",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Adamant Refusal",
+      "set_number": "KP01-EN051",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Uneven Playing Field",
+      "set_number": "KP01-EN052",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mythical Beast Major Manticore",
+      "set_number": "KP01-EN053",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Mythical Hero Theseus",
+      "set_number": "KP01-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Impermanence Dragon",
+      "set_number": "KP01-EN055",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Gecko",
+      "set_number": "KP01-EN056",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Hound",
+      "set_number": "KP01-EN057",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Lizard",
+      "set_number": "KP01-EN058",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Minotaur",
+      "set_number": "KP01-EN059",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Mutt",
+      "set_number": "KP01-EN060",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Serpent",
+      "set_number": "KP01-EN061",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Weladhi Elder",
+      "set_number": "KP01-EN062",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Fire Storm",
+      "set_number": "KP01-EN063",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Goliath",
+      "set_number": "KP01-EN064",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Hellhound",
+      "set_number": "KP01-EN065",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Chekrut Kerberos",
+      "set_number": "KP01-EN066",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Baby Duck",
+      "set_number": "KP01-EN067",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Momma Duck",
+      "set_number": "KP01-EN068",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Schrodinger's Duck",
+      "set_number": "KP01-EN069",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Stronk Duck",
+      "set_number": "KP01-EN070",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Quirk Duck",
+      "set_number": "KP01-EN071",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Duck",
+      "set_number": "KP01-EN072",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Untitle Goose",
+      "set_number": "KP01-EN073",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Bell",
+      "set_number": "KP01-EN074",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Pond",
+      "set_number": "KP01-EN075",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Quacktum Physic",
+      "set_number": "KP01-EN076",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Breadcrumbs",
+      "set_number": "KP01-EN077",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Dad Duck",
+      "set_number": "KP01-EN078",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Goose",
+      "set_number": "KP01-EN079",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Link Duck",
+      "set_number": "KP01-EN080",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Quantum Duck",
+      "set_number": "KP01-EN081",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Benson",
+      "set_number": "KP01-EN082",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Black Scales",
+      "set_number": "KP01-EN083",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Blue Sales",
+      "set_number": "KP01-EN084",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Poggin'",
+      "set_number": "KP01-EN085",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Rainbow Scales",
+      "set_number": "KP01-EN086",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Red Scales",
+      "set_number": "KP01-EN087",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Synchron",
+      "set_number": "KP01-EN088",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - The Hammer",
+      "set_number": "KP01-EN089",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Tuna",
+      "set_number": "KP01-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - White Scales",
+      "set_number": "KP01-EN091",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sala - Bruh Moment",
+      "set_number": "KP01-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Reborn",
+      "set_number": "KP01-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Swamp",
+      "set_number": "KP01-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Axolotl Springs",
+      "set_number": "KP01-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Burning Blade",
+      "set_number": "KP01-EN096",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Vage Dragon",
+      "set_number": "KP01-EN097",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Beefcake",
+      "set_number": "KP01-EN098",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Sala - Poisoned",
+      "set_number": "KP01-EN099",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Link Sala - Pider",
+      "set_number": "KP01-EN100",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }
+  ]
+}
