@@ -2,7 +2,7 @@
   "name": "Surprise Graydle Attack!",
   "number": "21000071",
   "is_illegal": false,
-  "text": "When your opponent activates a card or effect: Special Summon 1 \"Graydle\" monster from your Hand, Deck, or GY; that effect becomes \"Destroy 1 monster your opponent controls\". You can banish this card from your GY; add 1 \"Graydle\" card from your deck to your hand.",
+  "text": "When your opponent activates a card or effect: Special Summon 1 \"Graydle\" monster from your Hand, Deck, or GY, and if you do, that effect becomes \"Destroy 1 monster your opponent controls\". You can banish this card from your GY; add 1 \"Graydle\" card from your deck to your hand. You can only use this effect of \"Surprise Graydle Attack!\" once per turn.",
   "type": "Trap",
   "is_monster": false,
   "is_spell": false,

@@ -2,7 +2,7 @@
   "name": "Alien Spore Explosion!",
   "number": "21000026",
   "is_illegal": false,
-  "text": "If your opponent controls a monster without an A-Counter: Destroy all enemy monsters with A-Counters on them, then place 1 \"A-Counter\" on every monster on the field that wasn’t destroyed by this effect.",
+  "text": "If your opponent controls a monster without an A-Counter: Destroy all enemy monsters with A-Counters on them, then place 1 \"A-Counter\" on every monster on the field that wasn’t destroyed by this effect. You can only use 1 \"Alien Spore Explosion!\" per turn.",
   "type": "Spell",
   "is_monster": false,
   "is_spell": true,

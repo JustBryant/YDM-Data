@@ -2,7 +2,7 @@
   "name": "Venom Hydra",
   "number": "21000245",
   "is_illegal": false,
-  "text": "If this card is Summoned, you can add 1 \"Venom\" card from your Deck to your hand. (Quick Effect): You can target 1 monster your opponent controls; place 1 Venom counter on that card. Monsters with Venom counters cannot attack or activate their effects. Whilst there are 3 or more Venom counters on the field: You can tribute this card; Special Summon 1 \"Vennominaga the Deity of Poisonous Snakes\" from your hand, Deck, or GY ignoring summoning conditions.",
+  "text": "If this card is Summoned: You can add 1 \"Venom\" card from your Deck to your hand. (Quick Effect): You can target 1 monster your opponent controls; place 1 Venom counter on that card. Monsters with Venom counters cannot attack or activate their effects. Whilst there are 3 or more Venom counters on the field: You can tribute this card; Special Summon 1 \"Vennominaga the Deity of Poisonous Snakes\" from your hand, Deck, or GY ignoring summoning conditions.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
