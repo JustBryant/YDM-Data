@@ -128,7 +128,7 @@
       }
     },
     {
-      "card_name": U.A. Manager"",
+      "card_name": "U.A. Manager",
       "set_number": "KP01-EN013",
       "rarities": [
         "Secret Rare"
@@ -331,10 +331,10 @@
       "card_name": "The Entertainer",
       "set_number": "KP01-EN033",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -401,10 +401,10 @@
       "card_name": "Hannah, Pride of the Lightsworn",
       "set_number": "KP01-EN040",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -451,10 +451,10 @@
       "card_name": "Volcanic Dragon",
       "set_number": "KP01-EN045",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
