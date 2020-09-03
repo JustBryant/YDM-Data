@@ -2,7 +2,7 @@
   "name": "Sala - Beefcake",
   "number": "22000037",
   "is_illegal": false,
-  "text": "2 Level 5 \"Sala -\" Monsters\nOnce per turn, whilst this card has Xyz Material: You can target 1 card on the field; banish it, and if you do, you lose 1000 LP. You can detach 1 Xyz Material from this card to activate one of these effects;",
+  "text": "2 Level 5 \"Sala -\" Monsters\nOnce per turn, whilst this card has Xyz Material: You can target 1 card on the field; banish it, and if you do, you lose 1000 LP. You can detach 1 Xyz Material from this card to activate one of these effects;\n\u00B7 Banish 2 cards on the field, including one you control.\n\u00B7 Banish a card from either GY or banish this card and shuffle a card from either GY into the Deck.\nYou can only use this effect of \"Sala - Beefcake\" once per turn.",
   "type": "Monster",
   "is_monster": true,
   "is_spell": false,
@@ -18,7 +18,8 @@
   "is_link": false,
   "is_extra_deck": true,
   "monster_types": [
-    "XYZ"
+    "XYZ",
+    "Effect"
   ],
   "stars": "5"
 }
