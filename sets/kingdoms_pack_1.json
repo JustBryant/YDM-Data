@@ -11,10 +11,10 @@
       "card_name": "Mellow \"C\"",
       "set_number": "KP01-EN001",
       "rarities": [
-        "Secret Rare"
+        "Ultimate Rare"
       ],
       "count": {
-        "Secret Rare": 1
+        "Ultimate Rare": 1
       }
     },
     {
@@ -1005,6 +1005,16 @@
       ],
       "count": {
         "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Sala - Keizou",
+      "set_number": "KP01-EN101",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
       }
     }
   ]
