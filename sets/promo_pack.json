@@ -866,6 +866,16 @@
      "count": {
        "Secret Rare": 1
       }
+    },
+    {
+      "card_name": "Red-Eyes Dark Dragoon",
+      "set_number": "TYBW-EN084",
+      "rarities": [
+        "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
     }
   ]
 }
