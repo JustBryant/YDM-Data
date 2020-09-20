@@ -879,14 +879,24 @@
     }, 
     {
       "card_name": "F.A. Off-Road Grand Prix",
-      "set_number": "CIBR-EN087",
+      "set_number": "CIBR-EN088",
       "rarities": [
         "Common"
       ],
       "count": {
         "Common": 1
       }
-    }, 
+    },
+    {
+      "card_name": "F.A. Pit Stop",
+      "set_number": "CIBR-EN089",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
     {
       "card_name": "Lunalight Crimson Fox",
       "set_number": "CIBR-EN090",
