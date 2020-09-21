@@ -821,7 +821,7 @@
       "card_name": "Number 89: Diablosis the Mind Hacker",
       "set_number": "TYBW-EN079",
       "rarities": [
-        "Secret Rare"
+       "Secret Rare"
      ],
      "count": {
        "Secret Rare": 1
@@ -831,7 +831,7 @@
       "card_name": "Number C39: Utopia Ray V",
       "set_number": "TYBW-EN080",
       "rarities": [
-        "Secret Rare"
+       "Secret Rare"
      ],
      "count": {
        "Secret Rare": 1
@@ -841,7 +841,7 @@
       "card_name": "Magicalized Fusion",
       "set_number": "TYBW-EN081",
       "rarities": [
-        "Secret Rare"
+       "Secret Rare"
      ],
      "count": {
        "Secret Rare": 1
@@ -851,7 +851,7 @@
       "card_name": "Elemental HERO The Shining",
       "set_number": "TYBW-EN082",
       "rarities": [
-        "Secret Rare"
+       "Secret Rare"
      ],
      "count": {
        "Secret Rare": 1
@@ -861,7 +861,7 @@
       "card_name": "Elemental HERO Core",
       "set_number": "TYBW-EN083",
       "rarities": [
-        "Secret Rare"
+       "Secret Rare"
      ],
      "count": {
        "Secret Rare": 1
@@ -870,6 +870,26 @@
     {
       "card_name": "Red-Eyes Dark Dragoon",
       "set_number": "TYBW-EN084",
+      "rarities": [
+       "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C39: Utopia Ray V",
+      "set_number": "TYBW-EN085",
+      "rarities": [
+       "Secret Rare"
+     ],
+     "count": {
+       "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Rank-Up-Magic Limited Barian's Force",
+      "set_number": "TYBW-EN086",
       "rarities": [
         "Secret Rare"
      ],
