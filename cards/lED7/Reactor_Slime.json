@@ -1,0 +1,24 @@
+{
+  "name": "Reactor Slime",
+  "number": "79387392",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can activate this effect; Special Summon 2 \"Slime Tokens\" (Aqua/WATER/Level 1/ATK 500/DEF 500), also you cannot Normal or Special Summon monsters for the rest of this turn, except Divine-Beast monsters. During the Battle Phase (Quick Effect): You can Tribute this card; Set 1 \"Metal Reflect Slime\" from your hand, Deck, or GY. It can be activated this turn. You can only use each effect of \"Reactor Slime\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "500",
+  "defense": "500",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

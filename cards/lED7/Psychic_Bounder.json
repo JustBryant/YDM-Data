@@ -1,0 +1,24 @@
+{
+  "name": "Psychic Bounder",
+  "number": "65471349",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Jinzo\" or 1 Spell/Trap that specifically lists that card in its text, from your Deck to your hand. When another monster you control is attacked by an opponent's monster, before damage calculation: You can destroy both the attacking monster and this card. You can only use each effect of \"Psychic Bounder\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1700",
+  "defense": "1000",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Egyptian God Slime",
+  "number": "42166000",
+  "is_illegal": false,
+  "text": "1 Aqua monster + 1 Level 10 WATER monster\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing 1 Level 10 Aqua monster with 0 ATK. This card can be treated as 1 or 3 Tributes for the Tribute Summon of a monster. Cannot be destroyed by battle. Your opponent's monsters cannot target for attacks, and your opponent cannot target with card effects, any monsters you control, except \"Egyptian God Slime\".",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Aqua",
+  "attack": "3000",
+  "defense": "3000",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion"
+  ],
+  "stars": "10"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Meklord Nucleus Infinity Core",
+  "number": "77710579",
+  "is_illegal": false,
+  "text": "The first time this card would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of \"Meklord Nucleus Infinity Core\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Meklord\" Spell/Trap from your Deck to your hand. If this card is destroyed by card effect: You can Special Summon 1 \"Meklord Emperor\" monster from your hand or Deck with a different Attribute from the monsters you control, ignoring its Summoning conditions, also for the rest of this turn, you can only declare an attack with 1 monster.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "0",
+  "defense": "0",
+  "attribute": "DARK",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "1"
+}

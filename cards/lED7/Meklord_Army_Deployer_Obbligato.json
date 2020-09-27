@@ -1,0 +1,24 @@
+{
+  "name": "Meklord Army Deployer Obbligato",
+  "number": "03715284",
+  "is_illegal": false,
+  "text": "During your Main Phase: You can activate this effect; destroy this card, and if you do, Special Summon 2 \"Meklord Army\" monsters from your Deck in Defense Position, except \"Meklord Army Deployer Obbligato\", also you cannot Special Summon monsters for the rest of this turn, except Machine monsters. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, you can inflict 100 damage to your opponent for each \"Meklord\" monster you control. You can only use each effect of \"Meklord Army Deployer Obbligato\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1200",
+  "defense": "1800",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
