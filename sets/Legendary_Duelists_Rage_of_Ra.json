@@ -1,0 +1,583 @@
+{
+  "name": "Legendary Duelists: Rage of Ra",
+  "type": "Booster Pack",
+  "date": "2020-09-24",
+  "distribution": "booster_pack",
+  "prefix": "LED7",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "The Winged Dragon of Ra",
+      "set_number": "LED7-EN000",
+      "rarities": [
+        "Ghost Rare",
+        "Ulta Rare"
+      ],
+      "count": {
+        "Ghost Rare": 1,
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Egyptian God Slime",
+      "set_number": "LED7-EN001",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Reactor Slime",
+      "set_number": "LED7-EN002",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Guardian Slime",
+      "set_number": "LED7-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Ancient Chant",
+      "set_number": "LED7-EN004",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Blaze Cannon",
+      "set_number": "LED7-EN005",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Millennium Revelation",
+      "set_number": "LED7-EN006",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Sun God Unification",
+      "set_number": "LED7-EN007",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Makyura the Destructor",
+      "set_number": "LED7-EN008",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Juragedo",
+      "set_number": "LED7-EN009",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Holding Arms",
+      "set_number": "LED7-EN010",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Holding Legs",
+      "set_number": "LED7-EN011",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Monster Reborn",
+      "set_number": "LED7-EN012",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Left Arm Offering",
+      "set_number": "LED7-EN013",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The True Name",
+      "set_number": "LED7-EN014",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Metal Reflect Slime",
+      "set_number": "LED7-EN015",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Astro Dragon Triskelion",
+      "set_number": "LED7-EN016",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Emperor Wisel - Synchro Absorption",
+      "set_number": "LED7-EN017",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Nucleus Infinity Core",
+      "set_number": "LED7-EN018",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Army Deployer Obbligato",
+      "set_number": "LED7-EN019",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Assembly",
+      "set_number": "LED7-EN020",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Deflection",
+      "set_number": "LED7-EN021",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Astro the Eradicator",
+      "set_number": "LED7-EN022",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Meklord Emperor Wisel",
+      "set_number": "LED7-EN023",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Emperor Granel",
+      "set_number": "LED7-EN024",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Emperor Skiel",
+      "set_number": "LED7-EN025",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Astro Mekanikle",
+      "set_number": "LED7-EN026",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Astro Dragon Asterisk",
+      "set_number": "LED7-EN027",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Army of Wisel",
+      "set_number": "LED7-EN028",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Fortress",
+      "set_number": "LED7-EN029",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Chaos Infinity",
+      "set_number": "LED7-EN030",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Jinzo the Machine Menace",
+      "set_number": "LED7-EN031",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Psychic Bounder"",
+      "set_number": "LED7-EN032",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Psychic Megacyber",
+      "set_number": "LED7-EN033",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Cyber Energy Shock",
+      "set_number": "LED7-EN034",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Law of the Cosmos",
+      "set_number": "LED7-EN035",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Cosmos Channelling",
+      "set_number": "LED7-EN036",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Everlasting Alloy",
+      "set_number": "LED7-EN037",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Jinzo",
+      "set_number": "LED7-EN038",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Jinzo - Returner",
+      "set_number": "LED7-EN039",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Jinzo - Lord",
+      "set_number": "LED7-EN040",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Jinzo - Jector",
+      "set_number": "LED7-EN041",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Brain Control",
+      "set_number": "LED7-EN042",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Amplifier",
+      "set_number": "LED7-EN043",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Mind Control",
+      "set_number": "LED7-EN044",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Psychic Shockwave",
+      "set_number": "LED7-EN045",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Ra's Disciple",
+      "set_number": "LED7-EN046",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Army of Skiel",
+      "set_number": "LED7-EN047",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Meklord Army of Granel",
+      "set_number": "LED7-EN048",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Boon of the Meklord Emperor",
+      "set_number": "LED7-EN049",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "The Resolute Meklord Army",
+      "set_number": "LED7-EN050",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Reboot",
+      "set_number": "LED7-EN051",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "A Wild Monster Appears!",
+      "set_number": "LED7-EN052",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Mound of the Bound Creator",
+      "set_number": "LED7-EN053",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Token Sundae",
+      "set_number": "LED7-EN054",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "Token Stampede",
+      "set_number": "LED7-EN055",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "White Aura Bihamut",
+      "set_number": "LED7-EN056",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    }
+  ]
+}
